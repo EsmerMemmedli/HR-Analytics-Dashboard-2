@@ -1,4 +1,4 @@
-# 🧍‍♀️ HR Analytics Dashboard 
+# 🧍‍♀️ HR Analytics Dashboard - 2
 
 ## 📘 Project Overview
 This **Power BI** project focuses on **Human Resource (HR) Analytics**, providing key insights into employee demographics, retention, promotions, and department-level performance.  
@@ -29,9 +29,10 @@ The goal is to help HR teams make data-driven decisions and monitor workforce tr
 
 ### 📊 Dataset
 - <a href=https://github.com/EsmerMemmedli/HR-Analytics-Dashboard-2/blob/main/HR%20Analytics%20Data.xlsx>hr analystic</a>
-- <a href=https://github.com/EsmerMemmedli/Elektronika-Satis-Analizi/blob/main/Elekronika%20satis%20.xlsx>Dataset</a>
-- <a href=https://github.com/EsmerMemmedli/Elektronika-Satis-Analizi/blob/main/Elekronika%20satis%20.xlsx>Dataset</a>
-- <a href=https://github.com/EsmerMemmedli/Elektronika-Satis-Analizi/blob/main/Elekronika%20satis%20.xlsx>Dataset</a>
+- <a href=https://github.com/EsmerMemmedli/HR-Analytics-Dashboard-2/blob/main/HR_Analytics_Cleaned.csv>hr analystic cleaned</a>
+- <a href=https://github.com/EsmerMemmedli/HR-Analytics-Dashboard-2/blob/main/data.%20promomtion.csv>promotion</a>
+- <a href=https://github.com/EsmerMemmedli/HR-Analytics-Dashboard-2/blob/main/retrenchment.csv>retrenchment</a>
+- <a href=https://github.com/EsmerMemmedli/HR-Analytics-Dashboard-2/blob/main/HR%20employee%20data.csv>employees</a>
 
 ## 🧭 Dashboard Pages Overview
 
@@ -47,7 +48,7 @@ Provides a complete overview of the organization’s employee data — including
 - Job Levels and Service Years Breakdown  
 - Employee Distance from Office (Very Close / Close / Very Far)
 
-![Image Alt Text](https://github.com/EsmerMemmedli/HR-Analytics-Dashboard-1/blob/main/HR%20project%201.png)
+![Image Alt Text](https://github.com/EsmerMemmedli/HR-Analytics-Dashboard-2/blob/main/HR%20Project%20(2)%201.png)
 
 ---
 
@@ -60,7 +61,7 @@ Displays detailed employee-level data for those **due for promotion** and those 
 - Filtering by department or gender  
 - Centralized summary with totals  
 
-![Image Alt Text](https://github.com/EsmerMemmedli/HR-Analytics-Dashboard-1/blob/main/HR%20project%201.png)
+![Image Alt Text](https://github.com/EsmerMemmedli/HR-Analytics-Dashboard-2/blob/main/HR%20Project%20(2)%202.png)
 
 ---
 
@@ -74,7 +75,7 @@ Gives an in-depth view of employee performance and retention across departments 
 - Department-Wise High & Low Rating Percentages  
 - Job Role-Level Summary of Retrenchment and Promotion Eligibility  
 
-![Image Alt Text](https://github.com/EsmerMemmedli/HR-Analytics-Dashboard-1/blob/main/HR%20project%201.png)
+![Image Alt Text](https://github.com/EsmerMemmedli/HR-Analytics-Dashboard-2/blob/main/HR%20Project%20(2)%203.png)
 
 ---
 
@@ -85,7 +86,7 @@ Gives an in-depth view of employee performance and retention across departments 
 - Majority of employees are classified as **High-rated (84.63%)**.  
 - Most employees live **very close** to the workplace (63.9%).  
 
----
+
 
 ## 🧠 Project Purpose
 This dashboard enables HR managers to:
@@ -93,7 +94,4 @@ This dashboard enables HR managers to:
 - Monitor employee promotion and retrenchment trends  
 - Evaluate employee ratings and overtime performance  
 - Enhance HR decision-making with real-time analytics  
-
-
-
 
